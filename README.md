@@ -2,8 +2,8 @@
 Classifier for the MNIST handwritten digit set.
 
 ## Config:
-num_epoch = 20
-train_batch_size = 64
+num_epoch = 20 \n
+train_batch_size = 64 \n
 test_batch_size = 128
 lr = 0.001
 
