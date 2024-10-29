@@ -1,0 +1,29 @@
+Using cpu device
+Train set size: 60000
+ Test set size: 10000
+
+Epoch[1/20], Train Loss:1.5528, Train Acc:0.9137, Test Loss:1.4903, Test Acc:0.9724
+Epoch[2/20], Train Loss:1.4928, Train Acc:0.9689, Test Loss:1.4825, Test Acc:0.9788
+Epoch[3/20], Train Loss:1.4869, Train Acc:0.9743, Test Loss:1.4835, Test Acc:0.9777
+Epoch[4/20], Train Loss:1.4852, Train Acc:0.9763, Test Loss:1.4806, Test Acc:0.9806
+Epoch[5/20], Train Loss:1.4840, Train Acc:0.9770, Test Loss:1.4838, Test Acc:0.9772
+Epoch[6/20], Train Loss:1.4837, Train Acc:0.9776, Test Loss:1.4805, Test Acc:0.9803
+Epoch[7/20], Train Loss:1.4827, Train Acc:0.9783, Test Loss:1.4802, Test Acc:0.9811
+Epoch[8/20], Train Loss:1.4832, Train Acc:0.9779, Test Loss:1.4816, Test Acc:0.9795
+Epoch[9/20], Train Loss:1.4836, Train Acc:0.9775, Test Loss:1.4831, Test Acc:0.9777
+Epoch[10/20], Train Loss:1.4822, Train Acc:0.9790, Test Loss:1.4831, Test Acc:0.9779
+Epoch[11/20], Train Loss:1.4837, Train Acc:0.9774, Test Loss:1.4863, Test Acc:0.9746
+Epoch[12/20], Train Loss:1.4812, Train Acc:0.9798, Test Loss:1.4826, Test Acc:0.9787
+Epoch[13/20], Train Loss:1.4850, Train Acc:0.9761, Test Loss:1.4820, Test Acc:0.9790
+Epoch[14/20], Train Loss:1.4863, Train Acc:0.9748, Test Loss:1.4855, Test Acc:0.9755
+Epoch[15/20], Train Loss:1.4862, Train Acc:0.9749, Test Loss:1.4852, Test Acc:0.9760
+Epoch[16/20], Train Loss:1.4851, Train Acc:0.9761, Test Loss:1.4797, Test Acc:0.9814
+Epoch[17/20], Train Loss:1.4850, Train Acc:0.9762, Test Loss:1.4835, Test Acc:0.9777
+Epoch[18/20], Train Loss:1.4842, Train Acc:0.9769, Test Loss:1.4828, Test Acc:0.9782
+Epoch[19/20], Train Loss:1.4832, Train Acc:0.9779, Test Loss:1.4802, Test Acc:0.9809
+Epoch[20/20], Train Loss:1.4834, Train Acc:0.9777, Test Loss:1.4821, Test Acc:0.9791
+
+
+Training completed
+
+Best Epoch: 16
