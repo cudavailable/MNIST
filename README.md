@@ -9,3 +9,6 @@ Classifier for the MNIST handwritten digit set.
 
 ## Result:
 ![result_cpu](https://github.com/user-attachments/assets/85421ddc-bc76-43c7-b749-9f5b57bbe597)
+
+## Other Frameworks:
+[cudavailable/MindSpore_MNIST: some codes about MNIST recognition with MindSpore.](https://github.com/cudavailable/MindSpore_MNIST)
